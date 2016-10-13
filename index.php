@@ -4,10 +4,7 @@
     <meta charset="utf-8">
     <title>Clancy's</title>
     <?php require_once("lib/headutils.php");?>
-<<<<<<< HEAD
-    <title>Clancy's</title>
-=======
->>>>>>> 71ce547a1563f50d9b20059ae2b474138c25a8fd
+    <link rel="stylesheet" href="lib/css/index.css">
   </head>
 
   <body>
