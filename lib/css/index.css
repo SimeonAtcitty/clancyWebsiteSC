@@ -5,6 +5,14 @@
   height: 350px;
 }
 
+#jumbotron1 p {
+  text-align: center;
+  color: white;
+  font-family: 'Almendra SC', serif;
+  font-size: 20em
+  text-shadow: 10px 10px green
+}
+
 #headText {
   color: white;
   font-family: 'Almendra SC', serif;
@@ -12,10 +20,14 @@
   text-shadow: 3px 3px green;
 }
 
-p {
+h3{
+  font-size: 5em
+}
+
+p{
+  font-size: 3em
+}
+p{
+  color: green;
   text-align: center;
-  color: white;
-  font-family: 'Almendra SC', serif;
-  font-size: 20em
-  text-shadow: 10px 10px green
 }

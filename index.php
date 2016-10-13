@@ -15,7 +15,14 @@
         <p> Irish Pub House</p>
     </div>
 
-    
+    <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h3>We Offer</h3>
+            <p>Karaokee</p>
+
+
+          </div>
 
   </body>
 </html>
