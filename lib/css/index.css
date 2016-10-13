@@ -1,6 +1,21 @@
-.jumbotron{
-  background-image: url(http://tinyurl.com/jzgelx3);
-  no-repeat center center;
-  background-color: 
+#jumbotron1 {
+  background: url('http://tinyurl.com/jzgelx3') no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  height: 350px;
+}
 
+#headText {
+  color: white;
+  font-family: 'Almendra SC', serif;
+  font-size:10em;
+  text-shadow: 3px 3px green;
+}
+
+p {
+  text-align: center;
+  color: white;
+  font-family: 'Almendra SC', serif;
+  font-size: 20em
+  text-shadow: 10px 10px green
 }

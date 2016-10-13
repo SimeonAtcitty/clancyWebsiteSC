@@ -10,7 +10,7 @@
   <body>
     <?php require_once("lib/partials/navBar.php");?>
 
-    <div class="jumbotron">
+    <div class="jumbotron" id="jumbotron1">
       <h1 id="headText">Clancy's</h1>
         <p> Irish Pub House</p>
     </div>
