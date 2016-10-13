@@ -16,5 +16,12 @@
       </p>
     </div>
 
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h3>Burgers</h3>
+          <img src="http://tinyurl.com/j7l92o9" class="img-responsive center-block" alt="">
+         </div>
+
   </body>
 </html>
