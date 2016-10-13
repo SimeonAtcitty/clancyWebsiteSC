@@ -5,7 +5,14 @@
     <title>Clancy's</title>
     <?php require_once("lib/headutils.php");?>
   </head>
+
   <body>
+    <?php require_once("lib/partials/navBar.php");?>
+
+    <div class="jumbotron">
+      <h1 id="headText">Clancy's</h1>
+        <p> Irish Pub House</p>
+    </div>
 
   </body>
 </html>
