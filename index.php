@@ -19,10 +19,27 @@
         <div class="row">
           <div class="col-md-6">
             <h3>We Offer</h3>
+          <hr>
             <p>Karaokee</p>
+            <p>Happy Hour</p>
+            <p>Irish Bingo</p>
+
+            <img class="bar" src="http://tinyurl.com/hjfm3mp" alt="" />
+
+        <hr>
+    </div>
 
 
-          </div>
+    <div class="container">
+      <div class="row">
+      <div class="col-md-6">
+          <h4>Open everyday</h4>
+        <hr>
+          <p>11:00am-Midnight</p>
+
+
+    </div>
+  </div>
 
   </body>
 </html>

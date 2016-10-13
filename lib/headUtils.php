@@ -3,5 +3,5 @@
    crossorigin="anonymous">
 
  <link href="https://fonts.googleapis.com/css?family=Almendra+SC" rel="stylesheet">
-
+ <link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet">
 <link rel="stylesheet" href="lib/css/bootstrap.css">
