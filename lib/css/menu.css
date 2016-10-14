@@ -16,3 +16,7 @@
   color: white;
   text-shadow: 3px 3px green;
 }
+
+#centerThis {
+  text-align: center;
+}
