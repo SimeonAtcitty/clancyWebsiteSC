@@ -7,17 +7,23 @@
 
 #jumbotron1 p {
   text-align: center;
-  color: white;
+  color: lightgreen;
   font-family: 'Almendra SC', serif;
   font-size: 20em
-  text-shadow: 10px 10px green
+  text-shadow: 10px 10px black
 }
 
 #headText {
-  color: white;
+  color: lightgreen;
   font-family: 'Almendra SC', serif;
   font-size:10em;
-  text-shadow: 3px 3px green;
+  text-shadow: 3px 3px black;
+}
+h2{
+  text-align: center;
+  font-family: 'Almendra SC', serif;
+  color: lightgreen;
+  font-size: 5em;
 }
 
 body {
@@ -52,8 +58,13 @@ hr {
   box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
 }
 
+
+.bar{
+  align-items: center;
+  width: 50%;
+
 }
-.block {
-  display: inline;
-  text-align: center;
+
+ h3 {
+text-align: center;
 }
