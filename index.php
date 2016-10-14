@@ -15,13 +15,13 @@
         <p> Irish Pub House</p>
     </div>
     <div>
-        <h2 id="headp2">Family Oriented Enviroment</h2>
+        <h2 id="headp2">Food and Spirits</h2>
     </div>
 
 
     <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-md-5">
             <h3>Best Irish Beer in Town</h3>
           <hr>
             <p>With a focus on Irish brands, and 24 taps dedicated to the best of Irish & International craft Beer,
@@ -36,7 +36,8 @@
 
     <div class="container">
       <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-7">
+        <h3> Try our Authentic Irish Cuisine</p>
 
         <div class="flex_column av_one_third  first el_before_av_one_third">
           <section id="text-6" class="widget clearfix widget_text">
